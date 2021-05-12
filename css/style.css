@@ -42,7 +42,8 @@ h1 {
 
 .container {
     margin-top: 2em;
-    width: 100%;
+    width: 90%;
+    margin: 0 auto;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
 }
